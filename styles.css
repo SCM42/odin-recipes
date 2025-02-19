@@ -1,0 +1,13 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+
+.description {
+    color:brown;
+}
+
+.para {
+    color: black;
+    font-style: italic;
+}
