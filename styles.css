@@ -1,10 +1,76 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
     background-color: antiquewhite;
+    box-sizing: border-box;
+}
+
+.home {
+    background-color: #df836f;
+    padding: 10px 10px 10px 15px;
+}
+
+button {
+    font-size: 15px;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: -15px;
+}
+
+#logo {
+    display: block;
+    height: 100px;
+    width:100px;
+    margin: 0 auto;
+}
+
+.recipe-picture {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.ingredient-card {
+    background-color: white;
+    display: inline-block;
+    width: 305px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.ingredient-header {
+    background-color: white;
+    margin-left: 21px;
+}
+
+.ingredient-list {
+    background-color: white;
+}
+
+.steps-card {
+    margin: 15px;
+    padding: 5px 5px 5px 0px;
+    background-color: white;
+}
+
+.steps-header {
+    margin-left: 21px;
+    background-color: white;
+}
+
+.steps-list {
+    background-color: white;
 }
 
 .description {
     color:brown;
+    padding: 0px 20px;
 }
 
 .para {
