@@ -9,6 +9,26 @@ body {
     box-sizing: border-box;
 }
 
+.header {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: -15px;
+}
+
+.recipe-list-card {
+    background-color: white;
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+.recipes-header {
+    background-color: #df836f;
+    text-align: center;
+    padding: 8px;
+    width: 334px;
+}
+
 .home {
     background-color: #df836f;
     padding: 10px 10px 10px 15px;
